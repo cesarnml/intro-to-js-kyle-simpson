@@ -14,3 +14,4 @@
 
 - _keywords_ special words reserved for use by the JavaScript. Keywords cannot be used as user variable names
 - _expressions_ is any part of the code that return a value
+- _statements_ are self-containted expression that accomplish a definite task
